@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/SHASH345/ExpressJs-Web-Server/issues"
   },
-  "homepage": "https://github.com/SHASH345/ExpressJs-Web-Server#readme"
+  "homepage": "https://github.com/SHASH345/ExpressJs-Web-Server#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "hbs": "^4.0.1"
+  }
 }
