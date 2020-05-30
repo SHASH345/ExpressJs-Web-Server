@@ -9,8 +9,12 @@
 </head>
 
 <body>
-    <h1>{{title}}</h1>
-    <span>{{contact}}</span>
+    <div class="main-content">
+        {{>header}}
+        <span>{{contact}}</span>
+    </div>
+
+    {{>footer}}
 </body>
 
 </html>
