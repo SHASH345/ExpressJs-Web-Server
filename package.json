@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/SHASH345/ExpressJs-Web-Server#readme",
   "dependencies": {
-    "express": "^4.16.4",
+    "express": "^4.18.2",
     "hbs": "^4.1.1"
   }
 }
